@@ -29,6 +29,7 @@ body {
     width: 1280px;
     margin: auto;
     height: 700px;
+    position: relative;
 }
 
 #mapContainer {
