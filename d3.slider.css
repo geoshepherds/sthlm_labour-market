@@ -1,0 +1,95 @@
+.d3-slider {
+    position: relative;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 1.1em;
+    z-index: 2;
+    background: -webkit-linear-gradient(#808080, #f3f3f3 15%, #fff 44%);
+    background: linear-gradient(#808080, #f3f3f3 15%, #fff 44%);
+    box-shadow: inset 0 0 3px rgba(132,132,132,0.75);
+    border-radius: 4px;
+    border: none;
+    height: 20px;
+}
+
+.d3-slider-horizontal {
+    height: 20px;
+}  
+
+.d3-slider-range {
+  background:#2980b9;
+  left:0px;
+  right:0px;
+  height: 0.8em;
+  position: absolute;
+}
+
+.d3-slider-range-vertical {
+  background:#2980b9;
+  left:0px;
+  right:0px;
+  position: absolute;
+  top:0;
+}
+
+.d3-slider-vertical {
+    width: .8em;
+    height: 100px;
+}      
+
+.d3-slider-handle {
+    position: absolute;
+    z-index: 3;
+    height: 20px;
+    width: 15px;
+    border-radius: 4px;
+    background: #cc7a00;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 0 1px 0 rgba(132,132,132,0.75);
+    box-shadow: -1px 0 1px 0 rgba(132,132,132,0.75);
+}
+
+/*
+.d3-slider-handle:hover {
+    border: 1px solid #999999;
+}
+*/
+
+.d3-slider-horizontal .d3-slider-handle {
+    top: 0;
+    margin-left: -7.5px;
+}
+
+.d3-slider-axis {
+    position: relative;
+    z-index: 1;    
+}
+
+.d3-slider-axis-bottom {
+    top: .8em;
+}
+
+.d3-slider-axis-right {
+    left: .8em;
+}
+
+.d3-slider-axis path {
+    stroke-width: 0;
+    fill: none;
+}
+
+.d3-slider-axis line {
+    fill: none;
+    stroke: #aaa;
+    shape-rendering: crispEdges;
+}
+
+.d3-slider-axis text {
+    font-size: 11px;
+}
+
+.d3-slider-vertical .d3-slider-handle {
+    left: -.25em;
+    margin-left: 0;
+    margin-bottom: -.6em;      
+}

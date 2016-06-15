@@ -1,0 +1,22 @@
+
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=2e00e97e-5793-4326-8412-208807d6e8ef");
+@font-face{
+font-family:"Futura LT W01 Light";
+src:url("Fonts/2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot?#iefix");
+src:url("Fonts/2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot?#iefix") format("eot"),url("Fonts/26091050-06ef-4fd5-b199-21b27c0ed85e.woff2") format("woff2"),url("Fonts/cca525a8-ad89-43ae-aced-bcb49fb271dc.woff") format("woff"),url("Fonts/88cc7a39-1834-4468-936a-f3c25b5d81a1.ttf") format("truetype"),url("Fonts/14d6bf5d-15f1-4794-b18e-c03fb9a5187e.svg#14d6bf5d-15f1-4794-b18e-c03fb9a5187e") format("svg");
+}
+@font-face{
+font-family:"Futura LT W01 Book";
+src:url("Fonts/cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot?#iefix");
+src:url("Fonts/cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot?#iefix") format("eot"),url("Fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2") format("woff2"),url("Fonts/e2b9cbeb-fa8e-41cd-8a6a-46044b29ba52.woff") format("woff"),url("Fonts/c2a69697-4f06-4764-abd4-625031a84e31.ttf") format("truetype"),url("Fonts/dc423cc1-bf86-415c-bc7d-ad7dde416a34.svg#dc423cc1-bf86-415c-bc7d-ad7dde416a34") format("svg");
+}
+@font-face{
+font-family:"Futura LT W01 Medium";
+src:url("Fonts/0a41510f-c527-4001-89c5-d66d2c9ed34b.eot?#iefix");
+src:url("Fonts/0a41510f-c527-4001-89c5-d66d2c9ed34b.eot?#iefix") format("eot"),url("Fonts/e17c7943-8db2-4470-9e2a-74a8d01f6776.woff2") format("woff2"),url("Fonts/6c72b0cb-89a1-4da9-8574-9244967bd9d6.woff") format("woff"),url("Fonts/dd79c75a-b0c9-4d70-a5a7-bdde1d5449fd.ttf") format("truetype"),url("Fonts/c35c8eec-24d3-4ed7-9159-df80a008bf54.svg#c35c8eec-24d3-4ed7-9159-df80a008bf54") format("svg");
+}
+@font-face{
+font-family:"Futura LT W01 Bold";
+src:url("Fonts/87f56fc1-ab05-4355-90af-9e83740663af.eot?#iefix");
+src:url("Fonts/87f56fc1-ab05-4355-90af-9e83740663af.eot?#iefix") format("eot"),url("Fonts/3cf9e1e8-63a2-497f-86ed-6b63d6de1986.woff2") format("woff2"),url("Fonts/184895ac-545b-450b-9d3a-c0a0a7620977.woff") format("woff"),url("Fonts/bf8628d2-1ae0-4645-ba3f-3ce62d8d907c.ttf") format("truetype"),url("Fonts/20073de8-56dd-4e4c-9434-5097c3f2fd28.svg#20073de8-56dd-4e4c-9434-5097c3f2fd28") format("svg");
+}
